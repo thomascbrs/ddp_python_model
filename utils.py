@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def getSkew(a):
     """Returns the skew matrix of a 3 by 1 column vector
 
